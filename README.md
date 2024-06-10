@@ -1,7 +1,7 @@
 <h1>Easy Shopping :zap:</h1>
 <br>
 <br>
-<h2>Este projeto foi desenvolvido com habilidades adquiridas por mim através do <a href="https://rodolfomori.com.br/devclub">DevClub!</a></h2>
+<h2>Este projeto foi desenvolvido com habilidades adquiridas por mim através do <a href="https://rodolfomori.com.br/devclub">DevClub!</a></h2> Projeto desenvolvido utilizando as tecnologias HTML E CSS :grin:
 <br>
 <br>
 
